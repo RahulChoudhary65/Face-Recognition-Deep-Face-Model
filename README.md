@@ -4,4 +4,4 @@ In this project we need to implement Face Recognition with the help of Deep Face
 Due to Large size of zip file(file folder) unable to upload the whole Folder.
 But No need to worry I wanna to provide the google drive link of the Folder. I hope this will help :)
 
-[Deep Face Project Folder](https://drive.google.com/drive/folders/1So3q8LtCQVeAppqB0imGd0vyLibJ-H4M)
+[Deep Face Project Folder](https://drive.google.com/drive/folders/1So3q8LtCQVeAppqB0imGd0vyLibJ-H4M?usp=sharing)
